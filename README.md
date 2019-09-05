@@ -18,14 +18,14 @@ AUTH_BCRYPT_SALT= {salt-string-length}
 2. Download npm modules
 ```
 yarn install
+cd ./src/client && yarn install
+cd ./src/app && expo install
 ```
 
 ## Run
 1. Server
 ```
 yarn server:start
-cd ./src/client && yarn install
-cd ./src/app && expo install
 ```
 
 2. Client
