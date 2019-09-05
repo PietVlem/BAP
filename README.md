@@ -1,1 +1,1 @@
-# BAP
+# The Conference app
